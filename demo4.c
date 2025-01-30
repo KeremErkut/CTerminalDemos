@@ -7,7 +7,7 @@
 
 int main() {
     for (int t = 0; t < 100; t++) {
-        printf("\033[H\033[J"); // Terminali temizle
+        printf("\033[H\033[J"); 
         for (int y = 0; y < HEIGHT; y++) {
             for (int x = 0; x < WIDTH; x++) {
                 if (y == (int)(HEIGHT / 2 + (HEIGHT / 2 - 1) * sin(x * 0.1 + t * 0.2))) {
@@ -18,7 +18,7 @@ int main() {
             }
             printf("\n");
         }
-        usleep(50000); // 50ms bekle
+        usleep(50000); 
     }
     return 0;
 }
