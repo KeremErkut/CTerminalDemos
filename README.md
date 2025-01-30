@@ -1,4 +1,4 @@
-# CTerminalDemos 🚀
+# C Terminal Demos 🚀
 
 **CTerminalDemos** is a collection of 4 C programs that showcase various terminal effects such as colorful text, animated names, a starfield animation, and sine wave patterns! 🎨✨
 
