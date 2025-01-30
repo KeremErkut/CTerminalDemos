@@ -4,7 +4,7 @@
 
 ## Table of Contents 📚
 
-1. [Red Text Output 🔴](#1-red-text-output)
+1. [Red Text Output 🔴](RedText.c)
 2. [Animated Name ✨](#2-animated-name)
 3. [Starfield Effect 🌌](#3-starfield-effect)
 4. [Sine Wave Pattern 🌊](#4-sine-wave-pattern)
